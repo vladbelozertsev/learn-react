@@ -1,0 +1,8 @@
+.page__span {
+  cursor: pointer;
+}
+
+.page__span_active {
+  color: red;
+  border: 1px solid red;
+}

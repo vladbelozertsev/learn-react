@@ -1,0 +1,6 @@
+.user {
+  margin: 10px;
+  border: 2px solid var(--fontColorHover);
+  display: flex;
+  color: #fff;
+}

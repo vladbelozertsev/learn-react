@@ -1,0 +1,6 @@
+.app {
+  background-color: #dedede;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: 0.5em;
+}

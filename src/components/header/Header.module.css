@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  border: 2px solid black;
+  grid-column: 1 / 13;
+  padding: 2em;
+}
+
+.exit {
+  cursor: pointer;
+}

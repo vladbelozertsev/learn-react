@@ -1,0 +1,34 @@
+{
+  "extends": [
+    "react-app",
+    "eslint:recommended",
+    "plugin:react/recommended", 
+    "prettier", 
+    "prettier/react"
+  ]
+}
+
+// Инструкция по настройке: (https://www.youtube.com/watch?v=bfyI9yl3qfE)
+// 1.1 Скачать ESLint-plugin-React: npm install eslint-plugin-react --save-dev
+// 1.2 Скачать конфиг для Prittier: npm install --save-dev eslint-config-prettier
+// 2. Создать объект (см. выше) в котором в точном порядке создать свойства extends
+
+// Инструкция по установке плагинов к базовому eslint-config-react-app:
+// https://www.npmjs.com/package/eslint-config-react-app
+
+// Инструкция по установке eslint-plugin-react:
+// https://www.npmjs.com/package/eslint-plugin-react
+
+// Инструкция по установке eslint-config-prettier:
+// https://github.com/prettier/eslint-config-prettier
+
+// Airbnb рекомендации к оформлению:
+// https://github.com/airbnb/javascript/tree/master/react
+
+// Имена для файлов .jsx:
+// https://stackoverflow.com/questions/43973199/file-naming-conventions-in-reactjs
+
+// Прочее:
+// https://medium.com/@pppped/extend-create-react-app-with-airbnbs-eslint-config-prettier-flow-and-react-testing-library-96627e9a9672
+// https://eslint.org/docs/rules/ - про recommended
+// https://www.robinwieruch.de/how-to-use-prettier-vscode - установка Prettier, см способы

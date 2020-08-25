@@ -1,0 +1,10 @@
+.follow-btn {
+  cursor: pointer;
+}
+
+.follow-btn:disabled {
+  background-color: #d3d3d3;
+  border: 1px solid #999999;
+  color: #666666;
+  cursor: auto;
+}
